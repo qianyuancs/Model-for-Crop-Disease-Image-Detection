@@ -1,0 +1,40 @@
+{
+  "stage_results": {
+    "stage_1": {
+      "disease_acc": 0.9441870725788661,
+      "disease_f1": 0.894643207314994,
+      "severity_acc": 0.27509375689388926,
+      "severity_f1": 0.2499720362930514,
+      "joint_acc": 0.26251930288991837,
+      "theoretical_joint": 0.2597399690063636,
+      "synergy_gain": 0.00277933388355478
+    },
+    "stage_2": {
+      "disease_acc": 0.9563203176704169,
+      "disease_f1": 0.9106442588839112,
+      "severity_acc": 0.8380763291418487,
+      "severity_f1": 0.8580919538102015,
+      "joint_acc": 0.8111625854842268,
+      "theoretical_joint": 0.8014694213169896,
+      "synergy_gain": 0.0096931641672372
+    },
+    "stage_3": {
+      "disease_acc": 0.9724244429737481,
+      "disease_f1": 0.9305832115403045,
+      "severity_acc": 0.8786675490844915,
+      "severity_f1": 0.8931632157143444,
+      "joint_acc": 0.8590337524818001,
+      "theoretical_joint": 0.8544378019775951,
+      "synergy_gain": 0.004595950504205026
+    }
+  },
+  "final_analysis": {
+    "disease_accuracy": 0.9724244429737481,
+    "severity_accuracy": 0.8786675490844915,
+    "joint_accuracy": 0.8590337524818001,
+    "theoretical_joint": 0.8544378019775951,
+    "synergy_gain": 0.004595950504205026,
+    "synergy_percentage": 0.45959505042050264,
+    "interpretation": "Positive Synergy"
+  }
+}

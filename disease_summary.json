@@ -1,0 +1,224 @@
+{
+  "Apple Frogeye Spot": {
+    "total": 427,
+    "healthy": 0,
+    "general": 427,
+    "serious": 0
+  },
+  "Apple Healthy": {
+    "total": 1185,
+    "healthy": 1185,
+    "general": 0,
+    "serious": 0
+  },
+  "Apple Scab": {
+    "total": 362,
+    "healthy": 0,
+    "general": 211,
+    "serious": 151
+  },
+  "Cedar Apple Rust": {
+    "total": 182,
+    "healthy": 0,
+    "general": 142,
+    "serious": 40
+  },
+  "Cercospora Zeaemaydis Tehon and Daniels": {
+    "total": 358,
+    "healthy": 0,
+    "general": 191,
+    "serious": 167
+  },
+  "Cherry Healthy": {
+    "total": 598,
+    "healthy": 598,
+    "general": 0,
+    "serious": 0
+  },
+  "Cherry Powdery Mildew": {
+    "total": 226,
+    "healthy": 0,
+    "general": 116,
+    "serious": 110
+  },
+  "Citrus Greening": {
+    "total": 3611,
+    "healthy": 0,
+    "general": 1824,
+    "serious": 1787
+  },
+  "Citrus Healthy": {
+    "total": 367,
+    "healthy": 367,
+    "general": 0,
+    "serious": 0
+  },
+  "Corn Curvularia Leaf Spot": {
+    "total": 685,
+    "healthy": 0,
+    "general": 205,
+    "serious": 480
+  },
+  "Corn Healthy": {
+    "total": 376,
+    "healthy": 376,
+    "general": 0,
+    "serious": 0
+  },
+  "Corn Puccinia Polysora": {
+    "total": 838,
+    "healthy": 0,
+    "general": 483,
+    "serious": 355
+  },
+  "Grape Black Measles": {
+    "total": 922,
+    "healthy": 0,
+    "general": 503,
+    "serious": 419
+  },
+  "Grape Black Rot": {
+    "total": 843,
+    "healthy": 0,
+    "general": 381,
+    "serious": 462
+  },
+  "Grape Healthy": {
+    "total": 294,
+    "healthy": 294,
+    "general": 0,
+    "serious": 0
+  },
+  "Grape Leaf Blight": {
+    "total": 690,
+    "healthy": 0,
+    "general": 61,
+    "serious": 629
+  },
+  "Maize Dwarf Mosaic Virus": {
+    "total": 815,
+    "healthy": 0,
+    "general": 815,
+    "serious": 0
+  },
+  "Peach Bacterial Spot": {
+    "total": 1627,
+    "healthy": 0,
+    "general": 857,
+    "serious": 770
+  },
+  "Peach Healthy": {
+    "total": 251,
+    "healthy": 251,
+    "general": 0,
+    "serious": 0
+  },
+  "Pepper Healthy": {
+    "total": 1025,
+    "healthy": 1025,
+    "general": 0,
+    "serious": 0
+  },
+  "Pepper Scab": {
+    "total": 664,
+    "healthy": 0,
+    "general": 287,
+    "serious": 377
+  },
+  "Potato Early Blight": {
+    "total": 713,
+    "healthy": 0,
+    "general": 203,
+    "serious": 510
+  },
+  "Potato Healthy": {
+    "total": 1430,
+    "healthy": 1430,
+    "general": 0,
+    "serious": 0
+  },
+  "Potato Late Blight": {
+    "total": 697,
+    "healthy": 0,
+    "general": 251,
+    "serious": 446
+  },
+  "Strawberry Healthy": {
+    "total": 242,
+    "healthy": 242,
+    "general": 0,
+    "serious": 0
+  },
+  "Strawberry Scorch": {
+    "total": 775,
+    "healthy": 0,
+    "general": 192,
+    "serious": 583
+  },
+  "Tomato Bacterial Spot": {
+    "total": 2,
+    "healthy": 0,
+    "general": 1,
+    "serious": 1
+  },
+  "Tomato Early Blight": {
+    "total": 693,
+    "healthy": 0,
+    "general": 251,
+    "serious": 442
+  },
+  "Tomato Healthy": {
+    "total": 1208,
+    "healthy": 1208,
+    "general": 0,
+    "serious": 0
+  },
+  "Tomato Late Blight": {
+    "total": 1339,
+    "healthy": 0,
+    "general": 264,
+    "serious": 1075
+  },
+  "Tomato Leaf Mold": {
+    "total": 661,
+    "healthy": 0,
+    "general": 325,
+    "serious": 336
+  },
+  "Tomato Mosaic Virus": {
+    "total": 261,
+    "healthy": 0,
+    "general": 261,
+    "serious": 0
+  },
+  "Tomato Powdery Mildew": {
+    "total": 1285,
+    "healthy": 0,
+    "general": 319,
+    "serious": 966
+  },
+  "Tomato Septoria Leaf Spot": {
+    "total": 1228,
+    "healthy": 0,
+    "general": 421,
+    "serious": 807
+  },
+  "Tomato Spider Mite Damage": {
+    "total": 813,
+    "healthy": 0,
+    "general": 542,
+    "serious": 271
+  },
+  "Tomato Target Spot": {
+    "total": 65,
+    "healthy": 0,
+    "general": 43,
+    "serious": 22
+  },
+  "Tomato Yellow Leaf Curl Virus": {
+    "total": 3783,
+    "healthy": 0,
+    "general": 1338,
+    "serious": 2445
+  }
+}

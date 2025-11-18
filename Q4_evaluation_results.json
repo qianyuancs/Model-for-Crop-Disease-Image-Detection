@@ -1,0 +1,40 @@
+{
+  "disease_accuracy": 0.972645047429958,
+  "disease_f1": 0.9298784522128211,
+  "disease_avg_confidence": 0.9860909581184387,
+  "severity_accuracy": 0.8766821089786013,
+  "severity_f1": 0.8917054278835806,
+  "severity_recalls": [
+    0.9939819458375125,
+    0.8352490421455939,
+    0.850253807106599
+  ],
+  "severity_avg_confidence": 0.9195502400398254,
+  "severity_confusion_matrix": [
+    [
+      991,
+      5,
+      1
+    ],
+    [
+      15,
+      1308,
+      243
+    ],
+    [
+      0,
+      295,
+      1675
+    ]
+  ],
+  "joint_accuracy": 0.8568277079197,
+  "joint_f1": 0.9107919400482009,
+  "theoretical_joint": 0.8527005114684874,
+  "synergy_gain": 0.0041271964512126225,
+  "error_analysis": {
+    "disease_only_wrong": 90,
+    "severity_only_wrong": 525,
+    "both_wrong": 34,
+    "both_correct": 3884
+  }
+}

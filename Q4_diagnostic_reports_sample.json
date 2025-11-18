@@ -1,0 +1,802 @@
+[
+  {
+    "image_id": "0_3944.jpg",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "100.00%",
+      "combined_confidence": "100.00%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Grape Leaf Blight (General)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "100.00%",
+      "general_prob": "0.00%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3945.jpg",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "100.00%",
+      "combined_confidence": "99.99%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Grape Black Rot (General)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Grape Leaf Blight (General)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "100.00%",
+      "general_prob": "0.00%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3946.jpg",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.99%",
+      "combined_confidence": "99.99%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Cherry Powdery Mildew (General)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.99%",
+      "general_prob": "0.01%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3947.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.98%",
+      "combined_confidence": "99.97%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Cedar Apple Rust (Serious)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Grape Healthy",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.98%",
+      "general_prob": "0.02%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3948.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.99%",
+      "combined_confidence": "99.99%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Apple Healthy",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.99%",
+      "general_prob": "0.01%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3949.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "100.00%",
+      "combined_confidence": "99.99%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Grape Leaf Blight (General)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "100.00%",
+      "general_prob": "0.00%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3950.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.61%",
+      "combined_confidence": "99.61%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Grape Healthy",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Grape Black Rot (General)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.61%",
+      "general_prob": "0.39%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3951.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "99.97%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.99%",
+      "combined_confidence": "99.95%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "99.97%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.03%"
+      },
+      {
+        "disease_name": "Corn Curvularia (General)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.99%",
+      "general_prob": "0.01%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3952.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "97.56%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.93%",
+      "combined_confidence": "97.49%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "97.56%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "2.44%"
+      },
+      {
+        "disease_name": "Grape Healthy",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.93%",
+      "general_prob": "0.07%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3953.JPG",
+    "diagnosis": {
+      "predicted_disease": "Peach Bacterial Spot (General)",
+      "predicted_disease_id": 28,
+      "disease_confidence": "90.98%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "100.00%",
+      "combined_confidence": "90.98%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Peach Bacterial Spot (General)",
+        "confidence": "90.98%"
+      },
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "8.49%"
+      },
+      {
+        "disease_name": "Grape Leaf Blight (General)",
+        "confidence": "0.51%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "100.00%",
+      "general_prob": "0.00%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": false,
+      "severity_correct": true,
+      "both_correct": false
+    }
+  },
+  {
+    "image_id": "0_3954.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.97%",
+      "combined_confidence": "99.97%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Apple Healthy",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.97%",
+      "general_prob": "0.03%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3955.jpg",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.99%",
+      "combined_confidence": "99.99%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Grape Leaf Blight (General)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.99%",
+      "general_prob": "0.01%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3956.jpg",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "100.00%",
+      "combined_confidence": "100.00%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Cherry Powdery Mildew (General)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "100.00%",
+      "general_prob": "0.00%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3957.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.98%",
+      "combined_confidence": "99.98%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Grape Leaf Blight (General)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Grape Leaf Blight (Serious)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.98%",
+      "general_prob": "0.02%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3958.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "99.91%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.99%",
+      "combined_confidence": "99.89%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "99.91%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.09%"
+      },
+      {
+        "disease_name": "Grape Leaf Blight (General)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.99%",
+      "general_prob": "0.01%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3959.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.98%",
+      "combined_confidence": "99.98%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Grape Leaf Blight (General)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.98%",
+      "general_prob": "0.02%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3960.JPG",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "87.19%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.79%",
+      "combined_confidence": "87.00%",
+      "risk_level": "LOW",
+      "reliability": "High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "87.19%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "12.81%"
+      },
+      {
+        "disease_name": "Grape Healthy",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.79%",
+      "general_prob": "0.21%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3961.jpg",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "99.96%",
+      "combined_confidence": "99.96%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Grape Healthy",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "99.96%",
+      "general_prob": "0.04%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3962.jpg",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "97.32%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "100.00%",
+      "combined_confidence": "97.32%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "97.32%"
+      },
+      {
+        "disease_name": "Grape Black Rot (General)",
+        "confidence": "2.67%"
+      },
+      {
+        "disease_name": "Grape Black Rot (Serious)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "100.00%",
+      "general_prob": "0.00%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  },
+  {
+    "image_id": "0_3963.jpg",
+    "diagnosis": {
+      "predicted_disease": "Apple Scab (General)",
+      "predicted_disease_id": 1,
+      "disease_confidence": "100.00%",
+      "predicted_severity": "Healthy",
+      "severity_confidence": "100.00%",
+      "combined_confidence": "100.00%",
+      "risk_level": "LOW",
+      "reliability": "Very High"
+    },
+    "top3_disease_predictions": [
+      {
+        "disease_name": "Apple Scab (General)",
+        "confidence": "100.00%"
+      },
+      {
+        "disease_name": "Grape Healthy",
+        "confidence": "0.00%"
+      },
+      {
+        "disease_name": "Apple Scab (Serious)",
+        "confidence": "0.00%"
+      }
+    ],
+    "severity_distribution": {
+      "healthy_prob": "100.00%",
+      "general_prob": "0.00%",
+      "serious_prob": "0.00%"
+    },
+    "recommendations": "作物健康，无需防治。建议定期监测，保持良好的田间管理。",
+    "ground_truth": {
+      "true_disease": "Apple Healthy",
+      "true_severity": "Healthy",
+      "disease_correct": true,
+      "severity_correct": true,
+      "both_correct": true
+    }
+  }
+]
